@@ -1,5 +1,5 @@
 ---
-title: 关于我自己
+title: 关于我
 author: Jin Jiefan
 date: 2022-01-01
 category: Jekyll
