@@ -1,5 +1,5 @@
 ---
-title: 半导体
+title: 芯片的故事
 author: Jin Jiefan
 date: 2022-5-1
 category: Jekyll

@@ -1,5 +1,5 @@
 ---
-title: 计算机和软件
+title: 医疗领域的故事
 author: Jin Jiefan
 date: 2022-5-1
 category: Jekyll

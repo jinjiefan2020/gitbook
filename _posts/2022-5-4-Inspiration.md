@@ -1,5 +1,5 @@
 ---
-title: 创业和励志
+title: 创业和励志的故事
 author: Jin Jiefan
 date: 2022-5-1
 category: Jekyll
