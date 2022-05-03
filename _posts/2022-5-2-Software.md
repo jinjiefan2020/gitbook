@@ -1,5 +1,5 @@
 ---
-title: 电脑和软件的故事
+title: 二、电脑和软件的故事
 author: Jin Jiefan
 date: 2022-5-1
 category: Jekyll
