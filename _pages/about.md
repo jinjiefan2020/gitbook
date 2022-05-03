@@ -1,9 +1,9 @@
 ---
-title: About
-author: Tao He
+title: 关于我自己
+author: Jin Jiefan
 date: 2022-01-01
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+待更新
