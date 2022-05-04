@@ -1,11 +1,11 @@
 
-——--- 这些文字来自微信公众号的笔记，希望
+——--- 独特视角的科技产业观察
 
 ### 芯片的故事
 
 #### 光刻机专辑
 
-> * [光刻机之战](https://jinjiefan.com/jekyll/2022-05-01-Semiconductor.html#1-光刻机之战/)
+> * [光刻机之战](/jekyll/2022-05-01-Semiconductor.html#1-光刻机之战/)
 > * [光刻机之战-2-ASML传记](/jekyll/2022-05-01-Semiconductor.html#2-光刻机之战2-asml传记)
 > * [光刻机之战-3-台积电](/jekyll/2022-05-01-Semiconductor.html#3-光刻机之战-3台积电)
 > * [光刻机之战-4-蔡司](/jekyll/2022-05-01-Semiconductor.html#4-光刻机之战-4蔡司)
