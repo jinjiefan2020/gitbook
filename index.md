@@ -5,8 +5,8 @@
 
 ### 光刻机专辑
 
-> * [光刻机之战](/litho-war/)
-> * [光刻机之战-2](/litho-war-part-2)
+> * [光刻机之战](https://jinjiefan.com/jekyll/2022-05-01-Semiconductor.html#1-光刻机之战/)
+> * [光刻机之战-2-ASML传记](/jekyll/2022-05-01-Semiconductor.html#2-光刻机之战2-asml传记/)
 > * [光刻机之战-3-台积电](/litho-war-tsmc/)
 > * [光刻机之战-4-蔡司](/litho-war-zeiss/)
 > * [光刻机之战-5-《光刻巨人》的出版](/asml-s-architects/)
@@ -41,3 +41,6 @@
 ## 随笔和胡喷
 
 
+版权所有，转载需要联系本人授权
+Copyright 2018-2022 金捷幡 Jin Jiefan
+Thanks to Tao He for [jkeyll-gitbook](https://github.com/sighingnow/jekyll-gitbook/)
