@@ -25,6 +25,6 @@ layout: post
 >
 金捷幡
 
->![](/pages/about/avatar.png)
+>![](/pages/avatar.png)
 >
 2022年5月1日于北京

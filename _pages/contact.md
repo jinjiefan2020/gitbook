@@ -8,7 +8,7 @@ layout: post
 
 > 微信公众号：jin-jiefan
  
-![](/pages/contact/gongzhonghao.jpg)
+![](/pages/gongzhonghao.jpg)
 
 > 邮箱：jinjiefan2018(a)gmail.com
 
@@ -16,4 +16,4 @@ layout: post
 
 > 个人微信：添加请写明网站读者
  
- ![](/pages/contact/jiefan.jpg)
+ ![](/pages/jiefan.jpg)
