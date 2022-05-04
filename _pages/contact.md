@@ -1,5 +1,5 @@
 ---
-title: -联系我
+title: 联系我
 author: Jin Jiefan
 date: 2022-02-05
 category: Jekyll
@@ -8,7 +8,7 @@ layout: post
 
 > 微信公众号：jin-jiefan
  
-![](gongzhonghao.jpg)
+![](/contact/gongzhonghao.jpg)
 
 > 邮箱：jinjiefan2018(a)gmail.com
 
@@ -16,4 +16,4 @@ layout: post
 
 > 个人微信：添加请写明网站读者
  
- ![](jiefan.jpg)
+ ![](/contact/jiefan.jpg)

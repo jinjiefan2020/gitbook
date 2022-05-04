@@ -25,6 +25,6 @@ layout: post
 >
 金捷幡
 
->![](avatar.png)
+>![](/about/avatar.png)
 >
 2025年5月1日于北京
