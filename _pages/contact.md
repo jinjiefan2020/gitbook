@@ -7,5 +7,13 @@ layout: post
 ---
 
 > 微信公众号：jin-jiefan
+ 
+![](/jekyll/gongzhonghao.jpg)
 
-> 邮箱：jinjiefan2018（a）gmail.com
+> 邮箱：jinjiefan2018(a)gmail.com
+
+<br>
+
+> 个人微信：添加请写明网站读者
+ 
+ ![](/jekyll/jiefan.jpg)
