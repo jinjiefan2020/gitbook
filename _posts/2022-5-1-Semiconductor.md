@@ -1479,7 +1479,7 @@ DRAM标准由JEDEC JC-42工作组制订。虽然有投票机制，但DRAM的节�
 
 得益于半导体工艺的进步，DDR5的核心电压从DDR4的1.2V下降到1.1V，这有望节省20%的功耗。
 
-![](/images/1-mem4-2.jpg)
+![](/images/1-mem4-2.png)
 
 (DDR5可以使系统通道数再翻倍。图：Mircon)
 
@@ -2238,7 +2238,7 @@ IMEC是尖端技术回归欧洲的一个象征。作为ASML的铁杆盟友并部
 
 IMEC认为，超越5nm以后，晶体管Cell的模式可能是各种形状的FET管子。 
 
-![](/images/1-moore-5.jpg)
+![](/images/1-moore-5.png)
 
 （Photo Credit: IMEC）
 
@@ -3028,7 +3028,7 @@ Super Heavy+Starship+Raptor Engine：马斯克征服火星的蓝图终于齐备�
 
 下图是芯片卡半导体五强：恩智浦、英飞凌、三星、意法和华大。华大主要由华虹代工。
 
-![](/images/1-card-1.jpg)
+![](/images/1-card-1.png)
 
 为什么没看到美国厂商呢？
 
