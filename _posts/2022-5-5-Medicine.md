@@ -89,6 +89,8 @@ C) 预防溃疡再来
  
 ![](/images/5-GPS-1.jpg)
 
+(Photo: Siemens Healthineers)
+
 现在医疗设备行业的三巨头在业内被称为GPS：GE(通用电气)、Philips(飞利浦)和Siemens(西门子)，也有人称这是压在我国医疗行业的三座大山。
 有意思的是，这三家百年老店以前都是做灯泡的。
 
