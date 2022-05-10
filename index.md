@@ -9,7 +9,7 @@
 > * [光刻机之战-2-ASML传记](/jekyll/2022-05-01-Semiconductor.html#2-光刻机之战2-asml传记)
 > * [光刻机之战-3-台积电](/jekyll/2022-05-01-Semiconductor.html#3-光刻机之战-3台积电)
 > * [光刻机之战-4-蔡司](/jekyll/2022-05-01-Semiconductor.html#4-光刻机之战-4蔡司)
-> * [台积电等三巨头投资asml的真相](/jekyll/2022-05-01-Semiconductor.html#5-台积电等三巨头投资asml的真相)
+> * [台积电等三巨头投资ASML的真相](/jekyll/2022-05-01-Semiconductor.html#5-台积电等三巨头投资ASML的真相)
 > * [光刻机之战-5-《光刻巨人》的出版](/jekyll/2022-05-01-Semiconductor.html#6-光刻巨人的出版)
 > * [ASM(L)和电子束光刻](/jekyll/2022-05-01-Semiconductor.html#4-asml和电子束光刻)
 
