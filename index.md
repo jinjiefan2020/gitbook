@@ -75,6 +75,7 @@
 > * [战胜口腔溃疡](/jekyll/2022-05-01-Medicine.html#1-战胜口腔溃疡)
 > * [挑战GPS](/jekyll/2022-05-01-Medicine.html#2-挑战gps)
 > * [现在医学有多发达了？](/jekyll/2022-05-01-Medicine.html#3-现在医学有多发达了)
+> * [核酸检测：改变当今中国的美国技术](/jekyll/2022-05-01-Medicine.html#3-改变了当今中国的美国技术)
 
 ### 随笔和胡喷
 
