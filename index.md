@@ -37,6 +37,7 @@
 > * [某国、IMAX、DMD和元宇宙--中式内卷的反面样本](/jekyll/2022-05-01-Semiconductor.html#5-某国imaxdmd和元宇宙中式内卷的反面样本)
 > * [挑战GPS](/jekyll/2022-05-01-Medicine.html#2-挑战gps)
 > * [特斯拉的独特气质、星际殖民和碳化硅革命](/jekyll/2022-05-01-Semiconductor.html#6-特斯拉的独特气质星际殖民和碳化硅革命)
+> * [碳化硅的谎言与真相](/jekyll/2022-05-01-Semiconductor.html#2-碳化硅的谎言与真相)
 
 
 ### 电脑和软件的故事
@@ -81,6 +82,7 @@
 
 > * [金氏世界大学排名](/jekyll/2022-05-01-Sketch.html#1-金氏世界大学排名)
 > * [中国城市科技感知排名](/jekyll/2022-05-01-Sketch.html#2-中国城市科技感知排名)
+> * [解放前中国大学工科排名](/jekyll/2022-05-01-Sketch.html#1-解放前中国大学工科排名)
 > * [耦合](/jekyll/2022-05-01-Sketch.html#4-耦合)
 > * [微小说：造物主视角](/jekyll/2022-05-01-Sketch.html#5-微小说造物主视角)
 > * [试金石](/jekyll/2022-05-01-Sketch.html#6-试金石)
