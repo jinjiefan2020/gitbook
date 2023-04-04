@@ -2,14 +2,14 @@
 title:            金捷幡的文章集锦
 longtitle:        金捷幡的文章集锦
 author:           Jin Jiefan
-email:            jinjiefan2018a(a)gmail.com
+email:            jin(a)jinjiefan.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://jinjiefan.com'
+url:              'https://cn.jinjiefan.com'
 # baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
