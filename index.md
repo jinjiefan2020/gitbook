@@ -37,7 +37,7 @@
 > * [某国、IMAX、DMD和元宇宙--中式内卷的反面样本](/jekyll/2022-05-01-Semiconductor.html#5-某国imaxdmd和元宇宙中式内卷的反面样本)
 > * [挑战GPS](/jekyll/2022-05-01-Medicine.html#2-挑战gps)
 > * [特斯拉的独特气质、星际殖民和碳化硅革命](/jekyll/2022-05-01-Semiconductor.html#6-特斯拉的独特气质星际殖民和碳化硅革命)
-> * [碳化硅的谎言与真相](/jekyll/2022-05-01-Semiconductor.html#2-碳化硅的谎言与真相)
+> * [碳化硅的谎言与真相](/jekyll/2022-05-01-Semiconductor.html#8-碳化硅的谎言与真相)
 
 
 ### 电脑和软件的故事
@@ -54,7 +54,8 @@
 > * [人类登月的电脑和相机是什么样的？](/jekyll/2022-05-01-Software.html#10-人类登月的电脑和相机是什么样的)
 > * [CAD四大山头的由来](/jekyll/2022-05-01-Software.html#11-cad四大山头的由来)
 > * [量子计算的真实与谎言](/jekyll/2022-05-01-Software.html#12-量子计算的真实与谎言)
-> * [xx年未有之大变局](/jekyll/2022-05-01-Software.html#13-xx年未有之大变局)
+> * [蓝狐岛](/jekyll/2022-05-01-Software.html#13-蓝狐岛)
+> * [xx年未有之大变局](/jekyll/2022-05-01-Software.html#14-xx年未有之大变局)
 
 
 ### 通信领域的故事
@@ -80,6 +81,7 @@
 > * [核酸检测：改变当今中国的美国技术](/jekyll/2022-05-01-Medicine.html#5-核酸检测改变了当今中国的美国技术)
 > * [如果你特别有钱，会怎么治疗癌症](/jekyll/2022-05-01-Medicine.html#4-如果你特别有钱会怎么治疗癌症)
 > * [美国阴谋和新冠的消亡](/jekyll/2022-05-01-Sketch.html#14-美国阴谋和新冠的消亡)
+> * [视疲劳、干眼症和人工泪液](/jekyll/2022-05-01-Medicine.html#6-视疲劳、干眼症和人工泪液)
 
 ### 随笔和胡喷
 
@@ -106,6 +108,6 @@
 
 > 版权所有，转载需要联系本人授权
 > 
-> Copyright 2018-2022 金捷幡 Jin Jiefan
+> Copyright 2018-2023 ©金捷幡 Jin Jiefan
 > 
 > Thanks to Tao He for [jkeyll-gitbook](https://github.com/sighingnow/jekyll-gitbook/)
