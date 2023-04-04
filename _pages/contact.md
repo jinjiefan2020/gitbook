@@ -10,7 +10,7 @@ layout: post
  
 ![](/pages/gongzhonghao.jpg)
 
-> 邮箱：jinjiefan2018(a)gmail.com
+> 邮箱：jin(a)jinjiefan.com
 
 <br>
 
